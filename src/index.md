@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Read the Manifest
-      link: /guide/what-is-cabin-crew
+      link: https://aiagentmanifesto.org
     - theme: alt
       text: View Protocol Repo
       link: https://github.com/cabincrew-dev/cabincrew-protocol
